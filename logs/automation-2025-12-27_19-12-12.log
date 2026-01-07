@@ -1,0 +1,13 @@
+2025-12-27 19:12:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWorkspace\PKOpenCartV1\parallel_testng.xml
+
+2025-12-27 19:12:17 INFO  TC_001_AccountRegistrationTest:15 - ***Started TC_001_AccountRegistrationTest ***
+2025-12-27 19:12:18 INFO  TC_001_AccountRegistrationTest:15 - ***Started TC_001_AccountRegistrationTest ***
+2025-12-27 19:12:19 INFO  TC_001_AccountRegistrationTest:21 - Providing customer details
+2025-12-27 19:12:23 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message..
+2025-12-27 19:12:23 INFO  TC_001_AccountRegistrationTest:21 - Providing customer details
+2025-12-27 19:12:23 INFO  TC_001_AccountRegistrationTest:39 - Test Passed
+2025-12-27 19:12:23 INFO  TC_001_AccountRegistrationTest:52 - ***Finished TC_001_AccountRegistrationTest ***
+2025-12-27 19:12:27 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message..
+2025-12-27 19:12:27 INFO  TC_001_AccountRegistrationTest:39 - Test Passed
+2025-12-27 19:12:27 INFO  TC_001_AccountRegistrationTest:52 - ***Finished TC_001_AccountRegistrationTest ***

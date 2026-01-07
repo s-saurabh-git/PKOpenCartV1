@@ -1,0 +1,8 @@
+2026-01-06 16:47:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWorkspace\PKOpenCartV1\grid-docker.xml
+
+2026-01-06 16:47:40 INFO  TC_001_AccountRegistrationTest:15 - ***Started TC_001_AccountRegistrationTest ***
+2026-01-06 16:47:41 INFO  TC_001_AccountRegistrationTest:21 - Providing customer details
+2026-01-06 16:47:43 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message..
+2026-01-06 16:47:43 INFO  TC_001_AccountRegistrationTest:39 - Test Passed
+2026-01-06 16:47:43 INFO  TC_001_AccountRegistrationTest:52 - ***Finished TC_001_AccountRegistrationTest ***

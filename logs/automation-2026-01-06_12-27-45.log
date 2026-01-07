@@ -1,0 +1,7 @@
+2026-01-06 12:27:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWorkspace\PKOpenCartV1\parallel_testng.xml
+
+2026-01-06 12:27:50 INFO  TC_001_AccountRegistrationTest:15 - ***Started TC_001_AccountRegistrationTest ***
+2026-01-06 12:27:50 INFO  TC_001_AccountRegistrationTest:15 - ***Started TC_001_AccountRegistrationTest ***
+2026-01-06 12:27:50 INFO  TC_001_AccountRegistrationTest:21 - Providing customer details
+2026-01-06 12:27:51 INFO  TC_001_AccountRegistrationTest:21 - Providing customer details

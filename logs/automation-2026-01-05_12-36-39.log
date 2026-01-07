@@ -1,0 +1,10 @@
+2026-01-05 12:36:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWorkspace\PKOpenCartV1\master_testng.xml
+
+2026-01-05 12:36:44 INFO  TC_003_LoginDDT:17 - ==== Started TC_003_LoginDDT extends BaseClass===
+2026-01-05 12:36:57 INFO  TC_003_LoginDDT:17 - ==== Started TC_003_LoginDDT extends BaseClass===
+2026-01-05 12:37:02 INFO  TC_003_LoginDDT:17 - ==== Started TC_003_LoginDDT extends BaseClass===
+2026-01-05 12:37:07 INFO  TC_003_LoginDDT:17 - ==== Started TC_003_LoginDDT extends BaseClass===
+2026-01-05 12:37:19 INFO  TC_003_LoginDDT:67 - ==== Finished TC_003_LoginDDT extends BaseClass===
+2026-01-05 12:37:23 INFO  TC_003_LoginDDT:17 - ==== Started TC_003_LoginDDT extends BaseClass===
+2026-01-05 12:37:26 INFO  TC_003_LoginDDT:67 - ==== Finished TC_003_LoginDDT extends BaseClass===
